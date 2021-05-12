@@ -1,7 +1,7 @@
 
 # redisio
 
-## 4.2.1 (2021-05-07)
+## Unreleased
 
 - Fix systemd entry to ensure listening on all network interfaces ([#440](https://github.com/brianbianco/redisio/pull/440))
 
