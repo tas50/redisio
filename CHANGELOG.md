@@ -1,6 +1,10 @@
 
 # redisio
 
+## Unreleased
+
+- Fix systemd entry to ensure listening on all network interfaces ([#440](https://github.com/brianbianco/redisio/pull/440))
+
 ## 4.2.0 (2020-09-14)
 
 - New server option 'permissions' to override default (0644) unix permissions on config file
